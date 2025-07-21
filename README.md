@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @musabsid77
-- 👀 I’m interested in python , machine learning
-- 🌱 I’m currently learning python
+- 👀 I’m interested in backend dev
+- 🌱 I’m currently learning nodejs
 - 💞️ I’m looking to collaborate on utech digital education 
 - 📫 How to reach me musabsid77@gmail.com
 
