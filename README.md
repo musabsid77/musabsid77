@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @musabsid77
-- 👀 I’m interested in backend dev
-- 🌱 I’m currently learning nodejs
-- 💞️ I’m looking to collaborate on utech digital education 
+- 👀 I’m interested in Web dev
+- 💞️ I’m looking to collaborate on Buildables 
 - 📫 How to reach me musabsid77@gmail.com
 
 <!---
